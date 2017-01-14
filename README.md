@@ -4,6 +4,8 @@ A Mario Star Texture component for [A-Frame](https://aframe.io).
 
 ![Example](/aframe-mario-star-component.gif?raw=true "Mario Star Texture Example")
 
+[Example here](https://casonclagg.github.io/aframe-mario-star-component/basic/)
+
 ### API
 
 | Property  | Description                    | Default Value |
